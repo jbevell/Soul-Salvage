@@ -52,6 +52,8 @@
 </table>
 
 <h3>Development Notes</h3>
+<p>If you'd like to watch the full jam process, <a href="https://www.youtube.com/playlist?list=PLB3nBZNJyn2E4FAdTsq0_jgTPElq9f9RI">I streamed and recorded the whole thing</a>!</p>
+
 <h4><i>About the Jam</i></h4>
 <p>&emsp;The major theme of Godot Wild Jam #71 was "Unintended Consequences". Alongside this, my jam partner and I chose one of the optional themes, “Not Dead Yet”; to have the game over screen be a mini game. We had 9 days total to design, develop, test, and publish our game.</p>
 
