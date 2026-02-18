@@ -4,18 +4,16 @@
 
 <p>A game-jam game made for Godot Wild Jam #71</p>
 <table>
-  <tr>
-      <td>
-		  <a href="https://glitchdstudios.itch.io/soul-salvage">
-			  <img src="https://img.itch.zone/aW1nLzE3MDExNDQ0LnBuZw==/original/CeGPvo.png" alt="Soul Salvage Thumbnail Image" width="300" height="300"/>
-		  </a>
-	  </td>      
-      <td>
-		  <img src="AliveGameplay.png" alt="Gameplay-Alive" width="300" height="300"/></td>
-      <td>
-		  <img src="DeadGameplay.png" alt="Gameplay-Dead" width="300" height="300"/>
-      </td>
-  </tr>
+	<tr>
+		<td>
+			<img src="https://img.itch.zone/aW1nLzE3MDExNDQ0LnBuZw==/original/CeGPvo.png" alt="Soul Salvage Thumbnail Image" width="300" height="300"/>		
+		</td>      
+		<td>
+			<img src="Images/AliveGameplay.png" alt="Gameplay-Alive" width="300" height="300"/></td>
+		<td>
+			<img src="Images/DeadGameplay.png" alt="Gameplay-Dead" width="300" height="300"/>
+		</td>
+	</tr>
 </table>
 
 <h3>Summary</h3>
