@@ -2,7 +2,6 @@
 <html>
 <h1>Soul Salvage</h1>
 
-<p>A game-jam game made for Godot Wild Jam #71</p>
 <table>
 	<tr>
 		<td>
@@ -15,6 +14,7 @@
 		</td>
 	</tr>
 </table>
+<p align="center">A game-jam game made for Godot Wild Jam #71</p>
 
 <h3>Summary</h3>
 <p>&emsp;Soul Salvage is a top-down space-shooter where the player must defeat a certain number of enemies to win. But if they take too much damage, they are sent to the afterlife and must fight to regain their missing health. Enemies in the afterlife that succeed in reducing the player's health again will take away from the kill count, being "revived".</p>
